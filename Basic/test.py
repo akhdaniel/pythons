@@ -14,7 +14,6 @@ else:
   print "False"
 
 
-if(true){
-	print "Answer";
-	print "True";
-}
+if(True):
+	print "Answer"
+	print "True"
